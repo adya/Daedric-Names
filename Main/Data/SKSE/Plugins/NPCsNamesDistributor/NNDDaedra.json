@@ -1,0 +1,82 @@
+{
+    "NND_Given": {
+        "NND_Male": {
+            "NND_Names": [
+                "Aetherion","Aez","Ak","Anaxes","Arox",
+                "Balefire","Bha","Bogdan","Bogtro",
+                "Daktivus","Danrok","Djanax",
+                "Ebral","Entekkar","Erudolso",
+                "Furnvekh",
+                "Griz","Grizz",
+                "Hezehk","Historoth","Hixibaz","Hzu-Hakan",
+                "Ibelgast","Ibomez","Ilambris-Athor","Ilambris-Zaven","Iozuzzunth","Iskra","Ixjokaz","Izz",
+                "Jovval",
+                "Kazarvel","Kelax","Ketkarkux","Kothekel","Krosogar",
+                "Luxorinaf","Luzraffa",
+                "Malivus","Maxus","Medrike","Mehz","Mezz","Miksotet","Mirel","Mixtokhal","Moath","Moraz",
+                "Narlys","Nifxikif","Nilqoth","Nzerru",
+                "Obb","Oolfil","Oruxilo","Ozzozachar",
+                "Phobbiicus",
+                "Qrazgoth",
+                "Rukhan",
+                "Salosuum","Ser","Sko","Skoedal","Skoorn","Skrix","Solkyn","Sormorask","Stegakyx",
+                "Tarkatix","Tazzak","Telkor","Teltyraz","Tholiakke","Thrasotin","Torgo-Rix","Tysena",
+                "Ukkawoon","Utt","Uzuruz",
+                "Verkynvayl","Vre","Vri",
+                "Wadracki",
+                "Xiven","Xobutar","Xvarik","Xvij","Xyxevan","Xznotell",
+                "Zakuryn","Zandadunoz","Zatalguch","Zenelaz","Zenlazan","Zolgar","Zulagogg","Zydezaar","Zynoahz"
+            ]
+        },
+        "NND_Female": {
+            "NND_Names": [
+                "Adeo","Alinef","Alkhet",
+                "Brell",
+                "Chuna",
+                "Dayarrus","Desha","Domoira","Doragren","Dredaza","Dylandra","Dylora","Dyzera",
+                "Enlizanev",
+                "Fatahala","Flakk","Furnophra",
+                "Gangatru","Gati","Grynkx","Gytha-Kitha",
+                "Hoonzo-Gann",
+                "Illuna","Issmi",
+                "Jansa","Junermet","Jysetai",
+                "Kamira","Kaneh","Keetas","Khephidaen","Kus","Kuvaduul",
+                "Madam Whim","Mazorah","Mezeluth","Mireh","Mirok","Molag Kena","Mysilakhet","Nass",
+                "Nelrene","Nerazakan","Nikalia the Beguiling","Nomo-Rerak","Nuzara",
+                "Obtorgren","Olesella","Ontagoor","Oruuzyn","Oselaaz",
+                "Pahtrok",
+                "Rayyaima","Rayzara",
+                "Shaermeta","Shayaifa","Shir","Silezol","Skalhexx","Sorina","Squale","Staada","Stela","Szekesnarana",
+                "Taebod","Telofasa","Thrasotin","Trilvath","Tykn",
+                "Udico","Ulfri",
+                "Ven","Venissia","Vevotkohal","Viccia","Vika","Viriana","Vonand","Vorissa",
+                "Xoraxia","Xorolagora","Xotos Vel","Xxthauaa","Xynizanez",
+                "Yx",
+                "Zeffij","Zikal-zun","Zudeh"
+            ]
+        }
+    },
+    "NND_Family": {
+        "NND_Any": {
+            "NND_Chance": 30,
+            "NND_Names": [
+                "Arbiter of Pain",
+                "Blade of Mourning",
+                "Captor of Souls","Carver of Souls","Champion of Mehrunnez",
+                "Devourer of Souls","Duchess of Anguish",
+                "Eater of Souls",
+                "General",
+                "Guard of the Damned",
+                "Incinerator of Souls",
+                "Judge",
+                "Light-Bringer","Lord of Annihilation",
+                "Magistrate",
+                "of Divine Ashes","of His Deep Graces","of the Bloody Blade","of the Crimson Blade","of the Freezing Tombs","of the Frozen Winds",
+                "Scathe-Knight","Scourge of Men","Shield of Bal",
+                "the Apostate","the Betrayer","the Blizzard's Edge","the Brutal","the Cauterizer","the Creeping Chill","the Cremator","the Deplorable","the Dominator","The Edge Who Hungers","the Enkindler","the Enslaver","the Eternal","the Flesh Sculptor","the Gatekeeper","the Hungerer","the Insatiable","the Lacerator","the Lesser","the Ravager","the Ravenous","the Ravenous Flame","the Ringmaster","the Sculptor","the Shearflame","The Sojourner","the Sorcerer-King","the Soulgorger","the Spinecracker","the Storm Sister","the Unyielding","Tormentor of Souls",
+                "Warden of Frozen Souls"
+            ]
+            
+        }
+    }
+}
