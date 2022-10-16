@@ -1,0 +1,42 @@
+{
+    "NND_Given": {
+        "NND_Any": {
+            "NND_Chance": 40,
+            "NND_Names": [
+                "Brol",
+                "Cres",
+                "Lazonthagish",
+                "Izhavi",
+                "Lazonthagish",
+                "Oru",
+                "Phylaraak",
+                "Yggmanei",
+                "Zoal"
+            ]
+        },
+        "NND_Behavior": {
+            "NND_Combine": true
+        }
+    },
+    "NND_Family": {
+        "NND_Any": {
+            "NND_Chance": 75,
+            "NND_Names": [
+                "The Ancient One",
+                "Coldharbour Sentinel",
+                "Dagon's Witness",
+                "the Ever-Wakeful",
+                "Glaring Eye",
+                "Gravelight Sentry",
+                "the Petty",
+                "Lord",
+                "Manifestation of Terror",
+                "Omen of Betrayal",
+                "Omen of Fear",
+                "Tyrant",
+                "Vigilant"
+            ]
+            
+        }
+    }
+}

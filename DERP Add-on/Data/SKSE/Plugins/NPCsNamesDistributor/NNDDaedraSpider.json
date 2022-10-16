@@ -1,0 +1,33 @@
+{
+    "NND_Given": {
+        "NND_Male": {
+            "NND_Chance": 5,
+            "NND_Names": [
+                "Serni","Vorn"
+            ]
+        },
+        "NND_Female": {
+            "NND_Chance": 40,
+            "NND_Names": [
+                "Anexiel",
+                "Arachanos",
+                "Bol Veppik",
+                "Brevorra Poisonclaw",
+                "Flamespinner",
+                "Gozzak",
+                "Gwaumanus",
+                "Kayliriax",
+                "Kythiirix",
+                "Malygda",
+                "Mezelukhebruz",
+                "Naluroen",
+                "Ruzozuzalpamaz",
+                "Sithera",
+                "Ulfaduug"
+            ]
+        },
+        "NND_Behavior": {
+            "NND_Combine": true
+        }
+    }
+}
