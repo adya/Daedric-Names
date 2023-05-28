@@ -1,14 +1,8 @@
 {
-    "NND_Given": {
-        "NND_Male": {
-            "NND_Chance": 5,
-            "NND_Names": [
-                "Serni","Vorn"
-            ]
-        },
-        "NND_Female": {
-            "NND_Chance": 40,
-            "NND_Names": [
+    "First": {
+        "Female": {
+            "Chance": 40,
+            "Names": [
                 "Anexiel",
                 "Arachanos",
                 "Bol Veppik",
@@ -26,8 +20,14 @@
                 "Ulfaduug"
             ]
         },
-        "NND_Behavior": {
-            "NND_Combine": true
+        "Inherit": true,
+        "Male": {
+            "Chance": 5,
+            "Names": [
+                "Serni",
+                "Vorn"
+            ]
         }
-    }
+    },
+    "Priority": "Class"
 }

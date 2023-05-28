@@ -1,7 +1,7 @@
 {
-    "NND_Given": {
-        "NND_Any": {
-            "NND_Names": [
+    "First": {
+        "Any": {
+            "Names": [
                 "Adolot",
                 "Ahzuom",
                 "Atarus",
@@ -34,5 +34,6 @@
                 "Zozullu"
             ]
         }
-    }
+    },
+    "Priority": "Class"
 }

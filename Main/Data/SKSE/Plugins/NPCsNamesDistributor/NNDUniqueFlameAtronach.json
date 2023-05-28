@@ -1,11 +1,15 @@
 {
-
-    "NND_Given": {
-        "NND_Any": {
-            "NND_Names": ["Blaze", "Brimstone", "Dark Ember", "Hatewarden", "Ragebinder"]
+    "Chance": 10,
+    "First": {
+        "Any": {
+            "Names": [
+                "Blaze",
+                "Brimstone",
+                "Dark Ember",
+                "Hatewarden",
+                "Ragebinder"
+            ]
         }
     },
-    "NND_Behavior": {
-        "NND_Chance": 10
-    }
+    "Priority": "Faction"
 }

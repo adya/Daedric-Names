@@ -1,45 +1,70 @@
 {
-    "NND_Given": {
-        "NND_Male": {
-            "NND_Names": [
-                "Achaeraizur","Aghezaidil",
-                "Bakea","Bhornaz",
+    "First": {
+        "Female": {
+            "Names": [
+                "Achaeraizur",
+                "Aghezaidil",
+                "Bakea",
+                "Bhornaz",
                 "Creeper",
-                "Daragaz","Dolor","Dresuu Var","Dubroze",
-                "Gar Xuu Gar","Gibbers",
+                "Daragaz",
+                "Dresuu Var",
+                "Dubroze",
+                "Gar Xuu Gar",
+                "Gibbers",
                 "Horvantud",
-                "Keggahiha","Kh-Utta","Khrogo","Kizna",
-                "Lustidrike",
-                "Menta Na",
-                "Nazenaechar","Nolagha",
-                "Ol'icath","Ozozur",
-                "Rsolignah",
-                "Steel-Tail",
-                "Timtem","Tulu",
-                "Urrai",
-                "Varvesuu Nograta","Vree",
-                "Xevat-Golok"
-            ]
-        },
-        "NND_Female": {
-            "NND_Names": [
-                "Achaeraizur","Aghezaidil",
-                "Bakea","Bhornaz",
-                "Creeper",
-                "Daragaz","Dresuu Var","Dubroze",
-                "Gar Xuu Gar","Gibbers",
-                "Horvantud","Hrelvesuu",
-                "Keggahiha","Kh-Utta","Kizna",
+                "Hrelvesuu",
+                "Keggahiha",
+                "Kh-Utta",
+                "Kizna",
                 "Lustidrike",
                 "Nolagha",
-                "Ol'icath","Ozozur",
-                "Rishaal Tamir","Rsolignah",
-                "Steel-Tail","Sthorha",
+                "Ol'icath",
+                "Ozozur",
+                "Rishaal Tamir",
+                "Rsolignah",
+                "Steel-Tail",
+                "Sthorha",
                 "Tulu",
                 "Urrai",
-                "Varvesuu Nograta","Vree",
+                "Varvesuu Nograta",
+                "Vree",
                 "Xevat-Golok",
                 "Ysolmarr"
+            ]
+        },
+        "Male": {
+            "Names": [
+                "Achaeraizur",
+                "Aghezaidil",
+                "Bakea",
+                "Bhornaz",
+                "Creeper",
+                "Daragaz",
+                "Dolor",
+                "Dresuu Var",
+                "Dubroze",
+                "Gar Xuu Gar",
+                "Gibbers",
+                "Horvantud",
+                "Keggahiha",
+                "Kh-Utta",
+                "Khrogo",
+                "Kizna",
+                "Lustidrike",
+                "Menta Na",
+                "Nazenaechar",
+                "Nolagha",
+                "Ol'icath",
+                "Ozozur",
+                "Rsolignah",
+                "Steel-Tail",
+                "Timtem",
+                "Tulu",
+                "Urrai",
+                "Varvesuu Nograta",
+                "Vree",
+                "Xevat-Golok"
             ]
         }
     }

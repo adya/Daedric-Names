@@ -1,12 +1,13 @@
 {
-    "NND_Given": {
-        "NND_Any": {
-            "NND_Names": ["Zymel"]
+    "First": {
+        "Any": {
+            "Names": [
+                "Zymel"
+            ]
         }
     },
-    "NND_Family": {
-        "NND_Behavior": {
-            "NND_Combine": true
-        }
-    }
+    "Last": {
+        "Inherit": true
+    },
+    "Priority": "Class"
 }
